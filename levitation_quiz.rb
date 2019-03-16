@@ -6,4 +6,6 @@ def levitation_quiz
 	  breack if answer ==  "Wingardium Leviosa"
 end
 
-puts 
+puts "You passed the quiz!"
+
+end
